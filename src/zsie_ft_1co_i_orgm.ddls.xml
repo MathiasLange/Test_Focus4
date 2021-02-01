@@ -4,8 +4,6 @@
   <asx:values>
    <DDLS>
     <DDLNAME>ZSIE_FT_1CO_I_ORGM</DDLNAME>
-    <DDLANGUAGE>D</DDLANGUAGE>
-    <DDTEXT>Mapping table /SIE/FT_1CO_ORGM Organization Key to CO object</DDTEXT>
     <SOURCE_TYPE>V</SOURCE_TYPE>
    </DDLS>
   </asx:values>
