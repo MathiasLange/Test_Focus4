@@ -82,13 +82,6 @@
      <RELEASE_STATUS>NOT_RELEASED</RELEASE_STATUS>
     </_-IWFND_-I_MED_SRH>
    </_-IWFND_-I_MED_SRH>
-   <_-IWFND_-I_MED_SRT>
-    <_-IWFND_-I_MED_SRT>
-     <SRV_IDENTIFIER>ZSIE_FT_1CO_C_ORGM_CDS_0001</SRV_IDENTIFIER>
-     <IS_ACTIVE>A</IS_ACTIVE>
-     <LANGUAGE>E</LANGUAGE>
-    </_-IWFND_-I_MED_SRT>
-   </_-IWFND_-I_MED_SRT>
   </asx:values>
  </asx:abap>
 </abapGit>

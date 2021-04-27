@@ -21,6 +21,14 @@
      <IS_SAP_SERVICE>-</IS_SAP_SERVICE>
     </_-IWBEP_-I_MGW_SRH>
    </_-IWBEP_-I_MGW_SRH>
+   <_-IWBEP_-I_MGW_SRT>
+    <_-IWBEP_-I_MGW_SRT>
+     <TECHNICAL_NAME>ZSIE_FT_1CO_C_ORGM_CDS</TECHNICAL_NAME>
+     <VERSION>0001</VERSION>
+     <LANGUAGE>D</LANGUAGE>
+     <DESCRIPTION>Consumption CDS-Mapping table Organization Key to CO object</DESCRIPTION>
+    </_-IWBEP_-I_MGW_SRT>
+   </_-IWBEP_-I_MGW_SRT>
   </asx:values>
  </asx:abap>
 </abapGit>
